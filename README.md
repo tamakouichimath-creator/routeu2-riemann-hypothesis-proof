@@ -35,6 +35,12 @@ The public package may include items such as:
 - SHA256 checksums;
 - Zenodo metadata.
 
+## Technical review entry point
+
+Please use the following issue as the main entry point for technical review:
+
+- [Technical review entry point / first review targets](https://github.com/tamakouichimath-creator/routeu2-riemann-hypothesis-proof/issues/1)
+
 ## How to report issues
 
 Please report issues with a precise location and a reason the issue affects the proof route.
