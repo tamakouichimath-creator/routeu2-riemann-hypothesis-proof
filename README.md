@@ -1,6 +1,8 @@
-# Route U2: Public RH Proof Package
+# Route U2: Public Verification Target for a Proposed Proof of the Riemann Hypothesis
 
-Zenodo record: https://zenodo.org/records/21056615
+Zenodo DOI / archival record: https://zenodo.org/records/21056615
+
+This repository is a public landing page. The fixed archival package is hosted on Zenodo.
 
 ## Overview
 
@@ -10,9 +12,9 @@ The fixed archival release is hosted on Zenodo.
 
 ## Start here
 
-- `REVIEWER_START_HERE.md`
-- `CLAIM_BOUNDARY.md`
-- `ONE_PAGE_TECHNICAL_SUMMARY.md`
+- [REVIEWER_START_HERE.md](REVIEWER_START_HERE.md)
+- [CLAIM_BOUNDARY.md](CLAIM_BOUNDARY.md)
+- [ONE_PAGE_TECHNICAL_SUMMARY.md](ONE_PAGE_TECHNICAL_SUMMARY.md)
 
 ## What to inspect first
 
